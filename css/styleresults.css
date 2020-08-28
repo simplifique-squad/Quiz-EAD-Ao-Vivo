@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	font-family: montserrat;
+	font-family: 'Montserrat', sans-serif;
 }
 .resultado {
     background-color: #016362;
@@ -18,7 +18,7 @@ div {
 button {
 	background-color: #ff914d;
     color: white;
-    font-family: montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
 	padding: 10px 20px 10px 20px;
