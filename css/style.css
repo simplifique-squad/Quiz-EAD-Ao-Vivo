@@ -69,7 +69,5 @@ label {
 }
 
 input {
-	-webkit-appearance: none;
-    -webkit-font-smoothing: antialiased;
-    resize: none;
+	-webkit-appearance: radio;
 }
