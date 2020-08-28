@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: montserrat;
+}
+.resultado {
+    background-color: #016362;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+div {
+    padding: 20px;
+}
+button {
+	background-color: #ff914d;
+    color: white;
+    font-family: montserrat;
+    font-style: normal;
+    font-weight: 400;
+	padding: 10px 20px 10px 20px;
+	border-style: none;
+	border-radius: 10px;
+}
