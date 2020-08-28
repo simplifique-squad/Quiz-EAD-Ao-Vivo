@@ -12,6 +12,9 @@
     color: white;
     flex-direction: column;
 }
+#final {
+	text-align: center;
+}
 div {
     padding: 20px;
 }
