@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: inherit;
-    font-family: montserrat;
+    font-family: 'Montserrat', sans-serif;
 }
 .title {
     font-size: 4em;
@@ -60,7 +60,7 @@ label {
 .enviar {
     background-color: #016362;
     color: white;
-    font-family: montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 400;
 	padding: 10px 20px 10px 20px;
