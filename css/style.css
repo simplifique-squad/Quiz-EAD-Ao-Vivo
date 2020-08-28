@@ -1,5 +1,4 @@
 * {
-	-webkit-appearance: none;
     margin: 0;
     padding: inherit;
     font-family: 'Montserrat', sans-serif;
@@ -70,5 +69,7 @@ label {
 }
 
 .input {
-	-webkit-transform: scale(0.5,0.5);
+	-webkit-appearance: none;
+    -webkit-font-smoothing: antialiased;
+    resize: none;
 }
